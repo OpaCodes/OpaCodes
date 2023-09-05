@@ -1,0 +1,112 @@
+* {
+	margin: 0px;
+}
+
+h1 {
+	color: white;
+	font-weight: 500;
+	font-size: 3rem;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	margin-bottom: 5vh;
+    
+}
+
+img {
+	border-radius: 200px;
+}
+
+footer {
+	margin: 0;
+}
+
+
+ul {
+    padding-left: 0px;	
+} 
+
+img,
+picture,
+video {
+	max-width: 100%;
+}
+
+p, li {
+	color: white;
+	font-size: 2em;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+
+.title {
+    color: white;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/5e/4c/65/5e4c655b9353e0be289273b3e7c4b227.jpg");
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.bg {
+	background-image: url("https://i.pinimg.com/originals/20/70/f8/2070f812d6a581d5782c2df2f13165e8.gif");
+}
+
+.sofia {
+	font-family: "Sofia";
+}
+
+.multicol {
+	column-count: 2;
+}
+
+/* .multicol > p { */
+	/* background-color: black; */
+	/* opacity: 80%; */
+/* } */
+
+.opacity {
+    background-color: black;
+    /* opacity: 50%;	 */
+}
+
+.flex {
+    display: flex	
+}
+
+.center {
+	text-align: center;
+}
+
+.padding-top {
+	padding-top: 30px;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+}
+
+.two-column {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.three-column {
+	display: grid;
+	grid-template-columns: 1fr 20px 1fr;
+}
+
+.vertical-line {
+	border-left: 2px solid black;
+}
+
+.page-bg-image {
+	background-image: url("./assets/images/Journal-1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+
+}
