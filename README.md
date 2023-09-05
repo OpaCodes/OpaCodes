@@ -3,3 +3,6 @@ To keep a diary of my progression as a developer, be it directories I have store
 
 ## My Vision
 I want to realise my ideas if they can be helpful, whatever they may be, or to support ideas which I consider incredibly helpful.
+
+## A Note to Myself
+Hard work is the reward; the more I love what I do, the more I'll work harder to make it the best that it can be.
